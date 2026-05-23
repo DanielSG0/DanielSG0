@@ -83,7 +83,7 @@
 
 ### 🧰 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,figma" />
 
 </td>
 </tr>
