@@ -113,9 +113,9 @@ const daniel = {
   foco: [
     "Next.js",
     "TypeScript",
-    "Arquitetura de Software",
+    "React",
     "CI/CD",
-    "Back-end"
+    "Front-end"
   ],
 
   faculdade: "Ciência da Computação - PUC Minas",
