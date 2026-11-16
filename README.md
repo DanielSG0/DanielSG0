@@ -62,6 +62,12 @@ Sistema de achados e perdidos em Java (MVC). Trabalhei no front-end e na busca q
 
 ## Contato
 
-Me encontra no [LinkedIn](https://www.linkedin.com/in/danielsg0).
+<div align="center">
+
+<a href="https://www.linkedin.com/in/danielsg0">
+  <img src="https://img.shields.io/badge/Me_encontra_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Me encontra no LinkedIn" />
+</a>
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:009688,100:0A66C2&height=90&section=footer" alt="" />
