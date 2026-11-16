@@ -1,131 +1,75 @@
-<div align="center">
+<h1 align="center">Daniel Santos Garcia</h1>
 
-# 𝖣𝖺𝗇𝗂𝖾𝗅 𝖲𝖺𝗇𝗍𝗈𝗌 𝖦𝖺𝗋𝖼𝗂𝖺
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Developer;TypeScript+%7C+Next.js+%7C+Node.js;Construindo+solu%C3%A7%C3%B5es+modernas+com+c%C3%B3digo" />
-
-<p>
-  Desenvolvedor focado em criar aplicações modernas, performáticas e escaláveis.
-  <br/>
-  Sempre evoluindo através da prática, consistência e projetos reais.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Engenharia+de+Software;Python+%7C+FastAPI+%7C+PostgreSQL;Back-end+e+IA+aplicada" alt="Engenharia de Software, Python, FastAPI, PostgreSQL e IA aplicada" />
 </p>
 
-<br>
+<p align="center"><strong>Estudante de Ciência da Computação na PUC Minas</strong></p>
 
-## 🌐 Redes Sociais
+<p align="center">Desenvolvo aplicações web e APIs, com interesse em arquitetura de software e integração de inteligência artificial em produtos reais.</p>
 
-<a href="https://instagram.com/o_dinelson" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50" />
-</a>
-
-<a href="https://github.com/DanielSG0" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
-<a href="https://linkedin.com/in/danielsg0" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielsg0">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-# 🛠️ Linguagens & Ferramentas
+## 👨‍💻 Sobre mim
 
-<div align="center">
+- 🎓 Cursando **Ciência da Computação na PUC Minas**, com previsão de conclusão em 2028.
+- 🧩 Desenvolvendo o back-end do **FrotaWise**, uma plataforma de gestão de frotas com Python, FastAPI e PostgreSQL.
+- 🤝 Experiência com desenvolvimento em equipe em projeto de extensão universitária e estágio anterior em desenvolvimento web.
+- 🤖 Interesse em **Engenharia de Software aplicada à IA**, APIs e construção de sistemas confiáveis.
 
-<table>
+## 🚀 Projetos em destaque
 
-<tr>
-<td align="center">
-  
-### 💻 Linguagens
+### 🚛 FrotaWise — Gestão de frotas
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,c" />
+**Python · FastAPI · SQLAlchemy · PostgreSQL · Docker · Render**
 
-</td>
+Plataforma em desenvolvimento para controle de veículos, pneus, abastecimentos, manutenções e multas. Sou responsável pelo back-end, incluindo APIs REST, autenticação, permissões por perfil (**RBAC**), isolamento de dados por empresa (**multi-tenant**) e validações de regras de negócio. A API está publicada no Render e já passou por testes funcionais de endpoints.
 
-<td align="center">
+### 🏗️ Muralis AR — Tecnologia para engenharia civil
 
-### 🎨 Front-End
+**API · PostgreSQL · Flutter/Unity (arquitetura do projeto)**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+Projeto acadêmico da PUC Minas voltado ao uso de realidade aumentada em obras. Minha participação é focada na estruturação inicial da API, nas rotas básicas e na modelagem do banco de dados para usuários, obras, documentos e vínculos de engenheiros. O projeto prevê integração com um aplicativo Flutter/Unity e funcionalidades de realidade aumentada e visão computacional.
 
-</td>
+### 🔎 Achei! — Sistema de achados e perdidos
 
-<td align="center">
+**Java · HTML · CSS · JavaScript · Azure · Busca fuzzy**
 
-### ⚙️ Back-End
+Aplicação acadêmica para cadastrar objetos perdidos e encontrados. Participei do desenvolvimento do front-end e da funcionalidade de correspondência por similaridade textual entre descrições (**fuzzy matching**). O projeto também utilizou serviços do Azure.
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+## 🛠️ Tecnologias e ferramentas
 
-</td>
-</tr>
+| Área | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Python, TypeScript, JavaScript, Java, C/C++ e SQL |
+| **Back-end** | FastAPI, SQLAlchemy, Node.js, Express e APIs REST |
+| **Front-end** | React, Next.js, HTML, CSS e Tailwind CSS |
+| **Bancos de dados** | PostgreSQL e MySQL |
+| **Ferramentas** | Git, GitHub, Docker, Render e Azure (projeto acadêmico) |
 
-<tr>
-<td align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,fastapi,nodejs,react,nextjs" alt="Ícones de Python, TypeScript, JavaScript, Java, FastAPI, Node.js, React e Next.js" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,azure" alt="Ícones de PostgreSQL, MySQL, Docker, Git, GitHub e Azure" />
+</p>
 
-### 🗄️ Banco de Dados
+## 📚 Atualmente aprofundando
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-</td>
-
-<td align="center">
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-
-</td>
-
-<td align="center">
-
-### 🧰 Ferramentas
-
-<img src="https://skillicons.dev/icons?i=vscode,figma" />
-
-</td>
-</tr>
-
-</table>
-
-</div>
+- Arquitetura e desenvolvimento de APIs.
+- Integração de recursos de IA em aplicações.
+- Testes, deploy e boas práticas de engenharia de software.
 
 ---
 
-# 📊 GitHub Analytics
+<h3 align="center">📈 Atividade no GitHub</h3>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielSG0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielSG0&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</div>
-
----
-
-# 🚀 Atualmente estudando
-
-```ts
-const daniel = {
-  foco: [
-    "Next.js",
-    "TypeScript",
-    "React",
-    "CI/CD",
-    "Front-end"
-  ],
-
-  faculdade: "Ciência da Computação - PUC Minas",
-
-  objetivo: "Construir software sólido e evoluir constantemente"
-}
-```
-
-<div align="center">
-
-### “Consistência vence motivação.”
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielSG0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas de atividade do GitHub de Daniel Santos" />
+</p>
