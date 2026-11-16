@@ -1,75 +1,80 @@
 <h1 align="center">Daniel Santos Garcia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=Engenharia+de+Software;Python+%7C+FastAPI+%7C+PostgreSQL;Back-end+e+IA+aplicada" alt="Engenharia de Software, Python, FastAPI, PostgreSQL e IA aplicada" />
+  <strong>Desenvolvimento de software · Back-end · Ciência da Computação</strong>
 </p>
 
-<p align="center"><strong>Estudante de Ciência da Computação na PUC Minas</strong></p>
-
-<p align="center">Desenvolvo aplicações web e APIs, com interesse em arquitetura de software e integração de inteligência artificial em produtos reais.</p>
+<p align="center">PUC Minas · Belo Horizonte, MG</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danielsg0">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/danielsg0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+### Oi, eu sou o Daniel.
 
-- 🎓 Cursando **Ciência da Computação na PUC Minas**, com previsão de conclusão em 2028.
-- 🧩 Desenvolvendo o back-end do **FrotaWise**, uma plataforma de gestão de frotas com Python, FastAPI e PostgreSQL.
-- 🤝 Experiência com desenvolvimento em equipe em projeto de extensão universitária e estágio anterior em desenvolvimento web.
-- 🤖 Interesse em **Engenharia de Software aplicada à IA**, APIs e construção de sistemas confiáveis.
+Estudo Ciência da Computação na PUC Minas e tenho passado boa parte do meu tempo construindo o back-end do **FrotaWise**.
 
-## 🚀 Projetos em destaque
+O que mais tem me interessado no back-end são as decisões que não aparecem na tela: quem pode acessar cada dado, o que acontece quando uma regra de negócio é violada e como manter tudo consistente. O FrotaWise tem sido minha escola prática nisso.
 
-### 🚛 FrotaWise — Gestão de frotas
+Também tenho experiência com desenvolvimento web em equipe e projetos acadêmicos envolvendo realidade aumentada e busca por similaridade textual. Meu interesse hoje é aproximar **engenharia de software e IA aplicada**.
 
-**Python · FastAPI · SQLAlchemy · PostgreSQL · Docker · Render**
+## Projetos
 
-Plataforma em desenvolvimento para controle de veículos, pneus, abastecimentos, manutenções e multas. Sou responsável pelo back-end, incluindo APIs REST, autenticação, permissões por perfil (**RBAC**), isolamento de dados por empresa (**multi-tenant**) e validações de regras de negócio. A API está publicada no Render e já passou por testes funcionais de endpoints.
+### 01 / FrotaWise
 
-### 🏗️ Muralis AR — Tecnologia para engenharia civil
+**Gestão de frotas · Projeto próprio, em desenvolvimento**
 
-**API · PostgreSQL · Flutter/Unity (arquitetura do projeto)**
+Estou construindo o back-end de uma plataforma que reúne veículos, pneus, abastecimentos, manutenções, multas e outras rotinas de uma frota.
 
-Projeto acadêmico da PUC Minas voltado ao uso de realidade aumentada em obras. Minha participação é focada na estruturação inicial da API, nas rotas básicas e na modelagem do banco de dados para usuários, obras, documentos e vínculos de engenheiros. O projeto prevê integração com um aplicativo Flutter/Unity e funcionalidades de realidade aumentada e visão computacional.
+Alguns desafios que já trabalhei no projeto:
 
-### 🔎 Achei! — Sistema de achados e perdidos
+- **Isolamento por empresa:** cada cliente acessa somente seus próprios dados, usando uma arquitetura multi-tenant.
+- **Autorização:** permissões diferentes para administrador, diretor e operador.
+- **Consistência:** regras para atualização de hodômetro e validação de lançamentos retroativos.
+- **API:** endpoints REST publicados no Render e testados durante o desenvolvimento.
 
-**Java · HTML · CSS · JavaScript · Azure · Busca fuzzy**
+`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Render`
 
-Aplicação acadêmica para cadastrar objetos perdidos e encontrados. Participei do desenvolvimento do front-end e da funcionalidade de correspondência por similaridade textual entre descrições (**fuzzy matching**). O projeto também utilizou serviços do Azure.
+### 02 / Muralis AR
 
-## 🛠️ Tecnologias e ferramentas
+**Engenharia civil + realidade aumentada · Projeto acadêmico da PUC Minas**
 
-| Área | Tecnologias |
-| :--- | :--- |
+O Muralis propõe usar realidade aumentada para auxiliar a visualização e o levantamento de informações em obras. Na equipe, minha atuação é na **API e no banco de dados**: estrutura inicial do back-end, rotas básicas e modelagem de usuários, obras, documentos e engenheiros vinculados.
+
+A arquitetura do projeto prevê um aplicativo em Flutter/Unity e recursos de realidade aumentada e visão computacional.
+
+`API` `PostgreSQL` `Modelagem de dados` `Flutter/Unity na arquitetura`
+
+### 03 / Achei!
+
+**Achados e perdidos com busca por similaridade · Projeto acadêmico**
+
+Participei da construção de um sistema de achados e perdidos em Java (MVC), HTML, CSS e JavaScript. Fiquei envolvido no front-end e na funcionalidade que encontra possíveis correspondências entre objetos a partir da **similaridade das descrições** (*fuzzy matching*). O projeto também utilizou serviços do Azure.
+
+`Java` `JavaScript` `HTML/CSS` `Fuzzy matching` `Azure`
+
+## Tecnologias com que já trabalhei
+
+| Área | Ferramentas e tecnologias |
+| --- | --- |
 | **Linguagens** | Python, TypeScript, JavaScript, Java, C/C++ e SQL |
 | **Back-end** | FastAPI, SQLAlchemy, Node.js, Express e APIs REST |
 | **Front-end** | React, Next.js, HTML, CSS e Tailwind CSS |
-| **Bancos de dados** | PostgreSQL e MySQL |
-| **Ferramentas** | Git, GitHub, Docker, Render e Azure (projeto acadêmico) |
+| **Dados** | PostgreSQL e MySQL |
+| **Ambiente e deploy** | Git, GitHub, Docker, Render e Azure em projeto acadêmico |
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,java,fastapi,nodejs,react,nextjs" alt="Ícones de Python, TypeScript, JavaScript, Java, FastAPI, Node.js, React e Next.js" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,azure" alt="Ícones de PostgreSQL, MySQL, Docker, Git, GitHub e Azure" />
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,fastapi,react,nextjs,postgres,mysql,docker,git" alt="Tecnologias com que já trabalhei" />
 </p>
 
-## 📚 Atualmente aprofundando
+## Experiência
 
-- Arquitetura e desenvolvimento de APIs.
-- Integração de recursos de IA em aplicações.
-- Testes, deploy e boas práticas de engenharia de software.
+- **WebTech Network, PUC Minas:** participação em projeto de extensão de desenvolvimento web, com React, Next.js, TypeScript e trabalho em equipe.
+- **OrolGlass:** experiência de estágio no desenvolvimento front-end de um sistema B2B para gestão de esquadrias.
 
----
-
-<h3 align="center">📈 Atividade no GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielSG0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estatísticas de atividade do GitHub de Daniel Santos" />
-</p>
+Hoje estou aprofundando meu conhecimento em arquitetura de APIs, testes e maneiras de integrar recursos de IA a aplicações que já têm regras de negócio, usuários e dados reais.
